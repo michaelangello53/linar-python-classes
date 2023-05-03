@@ -5,6 +5,6 @@ def sum(n):
         for j in range (1,i-1):
             s+=j
     return s
-print(sum(5))
+print(sum(9))
 
 
