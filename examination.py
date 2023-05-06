@@ -22,7 +22,6 @@ def multiplyNum(num1):
 result = multiplyNum(8)
 print(result)
 
-
 #3a) Write a Python program that checks if a number is even or odd. If the number is even, print "Even", otherwise print "Odd"
 def num():
     numbers=["1","2","3","4","5","6"]
@@ -52,7 +51,6 @@ def numbrs():
         print(f'the number is negative')   
     if numb==8: 
         print(f'the number is positive') 
-
                
 
     else:
