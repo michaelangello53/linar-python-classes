@@ -13,4 +13,4 @@ def trade():
         except:
             return
 trade()            
-print("you made"+str(money)+"$")
+print("you made"+str(money)+"$ ")
