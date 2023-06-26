@@ -35,7 +35,3 @@ my_turtle.hideturtle()
 
 # Exit on click
 turtle.done()
-
-
-
-
