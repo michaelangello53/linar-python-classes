@@ -28,8 +28,9 @@ mymap.save("mylocation.py")"""
 import requests
 import json
 ip=input('Enter ip address:')
-
 host=json.loads(requests.get(f'https://ipinfo.io/{ip}/json').content)
+
+
 ip=host['ip']
 city=host['city']
 region=host['region']
